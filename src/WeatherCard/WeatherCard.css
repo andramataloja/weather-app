@@ -1,0 +1,13 @@
+.location {
+  color: #e95b4b;
+}
+.card,
+.error {
+  color: #696666;
+}
+.temp {
+  font-size: 32px;
+}
+.card {
+  border-color: #e95b4b;
+}
