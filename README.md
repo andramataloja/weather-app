@@ -1,3 +1,9 @@
+## Weather App
+
+Simple app to display current weather in cities using OpenWeatherMap API.
+![Screenshot](weather-screen.png)
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
